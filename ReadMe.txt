@@ -8,3 +8,4 @@ AuthenticationAPI is used to authorize the user using correct ceredentials.
 SQL connections are done in appsetting.json for the security purpose.
 
 Workflow is attached in the folder
+https://github.com/arpitmandal/Hospital-Management-Simulation/blob/master/Untitled.png?raw=true
